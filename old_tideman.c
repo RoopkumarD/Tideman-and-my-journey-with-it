@@ -1,4 +1,4 @@
-// Code doesn't work
+// Code doesn't work, as locked isn't giving correct answer
 
 #include <cs50.h>
 #include <stdio.h>
